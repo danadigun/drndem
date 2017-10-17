@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\danWin-PC\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.6.1
+[debug] Platform:     win32
+[debug] Node Version: v7.9.0
+[debug] Time:         Tue Oct 17 2017 20:09:33 GMT+0100 (W. Central Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/dr-ndem-resume  
+ Tue Oct 17 2017 20:09:33 GMT+0100 (W. Central Africa Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/dr-ndem-resume/tokens  
+ Tue Oct 17 2017 20:09:35 GMT+0100 (W. Central Africa Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\danWin-PC\Desktop\dr-ndem
+[debug] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/dr-ndem-resume  
+ Tue Oct 17 2017 20:09:36 GMT+0100 (W. Central Africa Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/188996662578/clients/_:getWebAppConfig  
+ Tue Oct 17 2017 20:09:38 GMT+0100 (W. Central Africa Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[info] Shutting down...
